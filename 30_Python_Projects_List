@@ -1,0 +1,377 @@
+### **10 Easy Python Projects**
+
+1. **Mood-based Playlist Generator**
+    
+    → CLI that recommends music based on mood.
+    
+    🎯 *Practices conditional logic, CLI interaction, and basic data handling.*
+    
+    **Tools:** Python, `random`, `csv`, `argparse`
+    
+    🟢 **No data required** | 🟢 **Easy**
+    
+    🔲 **Not yet started**
+    
+2. **Sci-fi Character Name Generator**
+    
+    → Generates random names based on sci-fi tropes.
+    
+    🎯 *Improves string manipulation and use of randomization for creative output.*
+    
+    **Tools:** Python, `random`, `string`
+    
+    🟢 **No data required** | 🟢 **Easy**
+    
+    🔲 **Not yet started**
+    
+3. **Drama Tracker**
+    
+    → Log completed K/J-dramas with ratings.
+    
+    🎯 *Practices data storage, basic analysis, and filtering using `pandas`.*
+    
+    **Tools:** Python, `csv`, `pandas`, CLI
+    
+    🔵 **Simulated data** | 🟢 **Easy**
+    
+    🔲 **Not yet started**
+    
+4. **Interactive Book Summary App**
+    
+    → Suggest sci-fi book summaries based on user preference.
+    
+    🎯 *Develops basic data lookup and beginner GUI or CLI interactivity.*
+    
+    **Tools:** Python, `json`, optional GUI (`Tkinter`)
+    
+    🔵 **Simulated data** | 🟢 **Easy**
+    
+    🔲 **Not yet started**
+    
+5. **Simple Graph Drawer**
+    
+    → Input dimensions and draw geometric shapes.
+    
+    🎯 *Introduces GUI and canvas drawing using Tkinter.*
+    
+    **Tools:** `Tkinter`, `canvas`
+    
+    🟢 **No data required** | 🟢 **Easy**
+    
+    🔲 **Not yet started**
+    
+6. **Planet Facts Finder**
+    
+    → Provides random sci-fi planet trivia.
+    
+    🎯 *Focuses on data retrieval and formatting from a local data file.*
+    
+    **Tools:** Python, `random`, `json`
+    
+    🔵 **Simulated data** | 🟢 **Easy**
+    
+    🔲 **Not yet started**
+    
+7. **Food Recipe Helper**
+    
+    → Suggest Filipino recipes based on ingredients.
+    
+    🎯 *Strengthens filtering/search with `pandas`, and JSON-based recipe databases.*
+    
+    **Tools:** Python, `pandas`, `json`
+    
+    🔵 **Simulated data** | 🟢 **Easy**
+    
+    🔲 **Not yet started**
+    
+8. **Color Picker App**
+    
+    → Pick colors and get their hex codes.
+    
+    🎯 *Practices GUI programming and interaction with built-in modules.*
+    
+    **Tools:** `Tkinter`, `colorchooser`
+    
+    🟢 **No data required** | 🟢 **Easy**
+    
+    🔲 **Not yet started**
+    
+9. **Basic Timer**
+    
+    → Start/stop/reset timer.
+    
+    🎯 *Teaches event-driven programming with `Tkinter` and working with time.*
+    
+    **Tools:** Python, `Tkinter`, `time`
+    
+    🟢 **No data required** | 🟢 **Easy**
+    
+    🔲 **Not yet started**
+    
+10. **Image Flipper**
+    
+    → Flip/mirror/rotate images.
+    
+    🎯 *Introduces image processing basics using `PIL` and simple graphics handling.*
+    
+    **Tools:** `Pygame`, `PIL`
+    
+    🟢 **No data required** | 🟢 **Easy**
+    
+    🔲 **Not yet started**
+    
+
+---
+
+### **15 Medium Python Projects**
+
+1. **Digital Marketing Campaign Analyzer**
+    
+    → Analyze campaign data (CTR, ROI, etc.).
+    
+    🎯 *Builds real-world digital marketing analysis skills using campaign metrics.*
+    
+    **Tools:** `pandas`, `matplotlib`, `seaborn`, Excel, Power BI (optional)
+    
+    🟣 **Internet data** | 🟡 **Medium**
+    
+    🔲 **Not yet started**
+    
+2. **Keyword Rank Tracker**
+    
+    → Track keyword positions over time.
+    
+    🎯 *Practices web data collection, trend tracking, and keyword performance analysis.*
+    
+    **Tools:** `pandas`, `matplotlib`, `datetime`, `requests`, Excel, optional SQL
+    
+    🟣 **Internet data** | 🟡 **Medium**
+    
+    🔲 **Not yet started**
+    
+3. **Data Cleaning Tool**
+    
+    → CLI tool to clean datasets (drop nulls, rename, etc.).
+    
+    🎯 *Develops data wrangling habits and CLI automation for preprocessing tasks.*
+    
+    **Tools:** `pandas`, CLI
+    
+    🔵 **Simulated data** | 🟡 **Medium**
+    
+    🔲 **Not yet started**
+    
+4. **Expense and Savings Dashboard**
+    
+    → GUI app for tracking finances.
+    
+    🎯 *Applies data input, visualization, and GUI design for personal finance tracking.*
+    
+    **Tools:** `Tkinter`, `pandas`, `matplotlib`
+    
+    🔵 **Simulated data** | 🟡 **Medium**
+    
+    🔲 **Not yet started**
+    
+5. **Interactive Sci-fi Story Generator**
+    
+    → Choose-your-own-adventure format.
+    
+    🎯 *Strengthens logic structures, user interaction, and narrative branching.*
+    
+    **Tools:** Python, branching logic with dictionaries
+    
+    🟢 **No data required** | 🟡 **Medium**
+    
+    🔲 **Not yet started**
+    
+6. **Language Learner Flashcards**
+    
+    → Study tool for JP/KR words.
+    
+    🎯 *Applies basic UI, randomization, and local data storage for learning tools.*
+    
+    **Tools:** `Tkinter`, `csv`, `random`
+    
+    🔵 **Simulated data** | 🟡 **Medium**
+    
+    🔲 **Not yet started**
+    
+7. **Excel Visualization Automator**
+    
+    → Auto-generate charts from Excel.
+    
+    🎯 *Automates reporting with Excel data and builds reusable templates.*
+    
+    **Tools:** `pandas`, `openpyxl`, `matplotlib`, `seaborn`
+    
+    🟣 **Internet data** | 🟡 **Medium**
+    
+    🔲 **Not yet started**
+    
+8. **Book Rating Analyzer**
+    
+    → Input book ratings and analyze trends.
+    
+    🎯 *Explores data aggregation and visual storytelling from user-generated data.*
+    
+    **Tools:** `pandas`, `matplotlib`
+    
+    🔵 **Simulated data** | 🟡 **Medium**
+    
+    🔲 **Not yet started**
+    
+9. **Drama Recap Dashboard**
+    
+    → Log drama episode progress with charts.
+    
+    🎯 *Combines media tracking and visual progress tracking using charts.*
+    
+    **Tools:** `pandas`, `matplotlib`, `Tkinter`
+    
+    🔵 **Simulated data** | 🟡 **Medium**
+    
+    🔲 **Not yet started**
+    
+10. **Music Album Visualizer**
+    
+    → Visualize your favorite albums’ trends.
+    
+    🎯 *Analyzes musical taste and builds customized visual dashboards.*
+    
+    **Tools:** `pandas`, `seaborn`, `Tkinter`
+    
+    🔵 **Simulated data** | 🟡 **Medium**
+    
+    🔲 **Not yet started**
+    
+11. **Simple Excel Report Generator**
+    
+    → Generate reports from cleaned data.
+    
+    🎯 *Reinforces end-to-end data cleaning and output to Excel format.*
+    
+    **Tools:** `pandas`, `openpyxl`, Excel
+    
+    🔵 **Simulated data** | 🟡 **Medium**
+    
+    🔲 **Not yet started**
+    
+12. **Chat Application (Text only)**
+    
+    → Peer-to-peer chat over LAN/Wi-Fi.
+    
+    🎯 *Teaches basic network programming and socket communication.*
+    
+    🟢 **No data required** | 🟡 **Medium**
+    
+    🔲 **Not yet started**
+    
+13. **Game Stats Tracker (Fallout 4)**
+    
+    → Log and visualize in-game stats.
+    
+    🎯 *Applies data logging and visualization to gaming analytics.*
+    
+    **Tools:** `pandas`, `matplotlib`, `Tkinter`
+    
+    🟣 **Internet data** | 🟡 **Medium**
+    
+    🔲 **Not yet started**
+    
+14. **Playlist Organizer**
+    
+    → Manage and sort music playlists visually.
+    
+    🎯 *Combines data sorting, filtering, and GUI to manage media collections.*
+    
+    **Tools:** `pandas`, `Tkinter`
+    
+    🔵 **Simulated data** | 🟡 **Medium**
+    
+    🔲 **Not yet started**
+    
+15. **Interactive Pie Chart Creator**
+    
+    → User inputs data → Pie chart appears.
+    
+    🎯 *Trains visual interaction and plotting logic using GUI elements.*
+    
+    **Tools:** `matplotlib`, `Tkinter`
+    
+    🟢 **No data required** | 🟡 **Medium**
+    
+    🔲 **Not yet started**
+    
+
+---
+
+### **5 Hard Python Projects**
+
+1. **Sci-fi Universe Explorer**
+    
+    → Visual tool to explore fictional worlds.
+    
+    🎯 *Combines structured data, interactive GUI, and creative storytelling into an immersive app.*
+    
+    **Tools:** `Kivy`, `json`, image assets
+    
+    🔵 **Simulated data** | 🔴 **Hard**
+    
+    🔲 **Not yet started**
+    
+2. **Custom Visualization Tool**
+    
+    → Build advanced graphs from various datasets.
+    
+    🎯 *Builds custom, reusable data visualization pipelines for complex, multi-source datasets.*
+    
+    **Tools:** `pandas`, `matplotlib`, `Tkinter`
+    
+    🟣 **Internet data** | 🔴 **Hard**
+    
+    🔲 **Not yet started**
+    
+3. **K-Drama AI Recommender**
+    
+    → Suggest dramas using basic ML.
+    
+    🎯 *Applies machine learning for content-based filtering, ideal for media and marketing domains.*
+    
+    **Tools:** `scikit-learn`, `pandas`, `numpy`
+    
+    🟣 **Internet data** | 🔴 **Hard**
+    
+    🔲 **Not yet started**
+    
+4. **Digital Marketing ROI Predictor**
+    
+    → Predict future ROI using linear regression.
+    
+    🎯 *Demonstrates predictive modeling with real business impact in a marketing context.*
+    
+    **Tools:** `numpy`, `pandas`, `scikit-learn`, Excel
+    
+    🟣 **Internet data** | 🔴 **Hard**
+    
+    🔲 **Not yet started**
+    
+5. **Digital Content Performance Simulator**
+    
+    → Simulates a campaign manager for digital content (ads, posts, videos) over weeks. Tracks engagement, adjusts strategies, visualizes ROI.
+    
+    🎯 *Models real-world digital marketing KPIs with a bit of gamified feedback.*
+    
+    **Tools:** `pandas`, `matplotlib`, `numpy`, CLI or GUI
+    
+    🔵 **Simulated data** | 🔴 **Hard**
+    
+    🔲 **Not yet started**
+
+
+
+    © 2025 JiunCoding. All rights reserved.
+
+This repository is part of a personal portfolio created to help me grow as a Python developer and apply for roles in Data Analysis and Digital Marketing. You are welcome to view, learn from, and reference this work. However, reproduction, redistribution, or claiming it as your own is strictly prohibited.
+
+If you’re an employer or collaborator and need more information, feel free to reach out directly.
