@@ -118,10 +118,11 @@ Email: In progress
 
 LinkedIn: In progress
 
-© 2025 JiunCoding. All rights reserved.
 
-This repository is part of a personal portfolio created to help me grow as a Python developer and apply for roles in Data Analysis and Digital Marketing. You are welcome to view, learn from, and reference this work. However, reproduction, redistribution, or claiming it as your own is strictly prohibited.
+#Copyright (c) 2025 JiunCoding
 
-If you’re an employer or collaborator and need more information, feel free to reach out directly.
+#This file is licensed under the MIT License.
 
+#This repository is part of a personal portfolio created to help me grow as a Python developer and apply for roles in Data Analysis and Digital Marketing.  
 
+#See the LICENSE file in the root of this repository for details
